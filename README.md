@@ -4,3 +4,6 @@
 
 # Disclaimer
 This software is for educational purposes only. This software should not be used for illegal activity. The author is not responsible for its use.
+
+# Message to my community
+Stop uploading it to VirusTotal.
