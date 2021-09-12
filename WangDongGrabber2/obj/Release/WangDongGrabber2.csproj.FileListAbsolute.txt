@@ -1,0 +1,6 @@
+D:\WangDongGrabber2\WangDongGrabber2\bin\Release\wang2.exe
+D:\WangDongGrabber2\WangDongGrabber2\obj\Release\WangDongGrabber2.csprojAssemblyReference.cache
+D:\WangDongGrabber2\WangDongGrabber2\obj\Release\wang.Properties.Resources.resources
+D:\WangDongGrabber2\WangDongGrabber2\obj\Release\WangDongGrabber2.csproj.GenerateResource.cache
+D:\WangDongGrabber2\WangDongGrabber2\obj\Release\WangDongGrabber2.csproj.CoreCompileInputs.cache
+D:\WangDongGrabber2\WangDongGrabber2\obj\Release\wang2.exe
